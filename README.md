@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/8eda8d27-ca40-445d-aa8d-022d5cf4ec65
   ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohana-123/Coffee-sales
+   git clone https://github.com/mohana-123/HR_analysis
    ```
 
 
