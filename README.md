@@ -44,3 +44,13 @@ https://github.com/user-attachments/assets/8eda8d27-ca40-445d-aa8d-022d5cf4ec65
     *   Enabled data-driven decision-making for recruitment and retention strategies.
 *   **Statistic:**  HR team reported a 60% reduction in time spent on manual data entry.  Dashboard usage by HR team averaged 5 times per week.
 
+
+  ## How to Use This Repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mohana-123/Coffee-sales
+   ```
+
+
+
+
