@@ -14,6 +14,12 @@ My task was to develop a solution that would enable HR to independently access a
 
 I implemented a forum-based Excel dataset using KoboToolbox for data collection. This allowed for real-time updates to the Excel sheet, which served as the data source for the dynamic dashboard.  HR could directly input employee data, including reasons for leaving, into the KoboToolbox form, and the Excel sheet (and therefore the dashboard) would update automatically. This eliminated the need for manual data entry and ensured data accuracy.  The dashboard itself was designed to visualize the required KPIs and provide clear insights into attrition trends.
 
+
+
+https://github.com/user-attachments/assets/78ef0f33-5a63-46fc-b1e7-c32429bd727d
+
+
+
 **Results:**
 
 The analysis revealed that the primary drivers of attrition were "Better Opportunities," followed by "Job Dissatisfaction" and "Personal Reasons."  Based on these findings, I recommended the following actions:
@@ -21,5 +27,8 @@ The analysis revealed that the primary drivers of attrition were "Better Opportu
 *   **Targeted Recruitment:**  Prioritize the recruitment of young and dynamic candidates, particularly through internship programs, to address the "Better Opportunities" factor.
 *   **Job Role Focus:**  Increase recruitment efforts for marketing and sales job roles, as these areas may be experiencing higher attrition rates.  Further investigation may be needed to understand why these roles have higher attrition.
 *   **Further Analysis:**  Investigate the "Job Dissatisfaction" reason further to identify specific areas for improvement in employee engagement and satisfaction. This could involve conducting employee surveys or exit interviews.
+
+<img width="848" alt="Screenshot 2025-02-24 124715" src="https://github.com/user-attachments/assets/e400841e-213d-4af7-9124-fa549f0cca68" />
+
 
 The dynamic dashboard now provides HR with a real-time view of key employee metrics, enabling them to proactively address attrition issues and make data-driven decisions regarding recruitment and employee retention strategies.  This solution significantly reduces HR's reliance on data analysts and empowers them to manage employee data more effectively.
